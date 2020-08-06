@@ -10,6 +10,8 @@ https://github.com/JJLim99/Implementation-of-TensorFlow-GPU-CUDA-in-Windows.git
 
 # ObjectDetection-Keras_MaskRCNN
 
+The dataset used is provided at https://github.com/JJLim99/shoesdataset.git (You can create your own dataset)
+
 Please take note to the following changes to prevent errors. (Can refer to the uploaded mrcnn files)
 
 For model.py
