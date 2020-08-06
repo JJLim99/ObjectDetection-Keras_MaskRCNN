@@ -10,7 +10,7 @@ https://github.com/JJLim99/Implementation-of-TensorFlow-GPU-CUDA-in-Windows.git
 
 # ObjectDetection-Keras_MaskRCNN
 
-Please take note to the following changes to prevent errors.
+Please take note to the following changes to prevent errors. (Can refer to the uploaded mrcnn files)
 
 For model.py
 --> Change the code at line 2199 to self.keras_model.add_metric(loss, name) 
